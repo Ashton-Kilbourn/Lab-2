@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+APb4TRSi2krJ3Wvs2pNso11H/k+7US0l2jqJStXMyZTK5QaMu8V00nfNP5wgln+Ov/tSUkScS4S2bvK2UTGEA==",
+  "success": true,
+  "projectFilePath": "C:\\Programming 2\\Week2\\Lab2\\HeroDB\\HeroDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akilb\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
